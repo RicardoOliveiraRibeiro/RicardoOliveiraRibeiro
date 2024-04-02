@@ -16,8 +16,3 @@ Feel free to reach out to me through any of these platforms. I'd love to connect
 
 #### 🔭 Projects
 I enjoy working on various projects, ranging from web development to cybersecurity to coding. And I would love to someday learn Artificial Intelligence properly. 🚀
-
-
-              - name: generate-snake-game-from-github-contribution-grid
-                uses: Platane/snk@v3.2.0
-            
