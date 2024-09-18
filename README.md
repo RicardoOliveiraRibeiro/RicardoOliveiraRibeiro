@@ -1,18 +1,12 @@
-### 👋 Hello there, I'm @RicardoOliveiraRibeiro! Welcome to my GitHub! 👨‍💻
+👋 Hello there, I'm @RicardoOliveiraRibeiro! Welcome to my GitHub! 👨‍💻
+👀 About Me
+I'm a passionate developer with a focus on Programming, Networking, and CyberSecurity! 💻🔐 I love pushing the boundaries of tech and constantly learning.
 
-#### 👀 About Me
-I'm passionate about Programming, Coding, Development, Networking, and CyberSecurity! 💻🔐 I love diving into the world of technology and exploring new possibilities.
+🌱 What I’m Doing Now
+I've completed my Bachelor's in Computer Science 🎓 and am actively working in the IT industry, focusing on network administration and development.
 
-#### 🌱 Currently
-I'm pursuing my studies in Informatics Engineering at ISEC (Instituto Superior de Engenharia de Coimbra) 🎓, constantly learning and expanding my knowledge.
-
-#### 📫 Get in Touch
-Feel free to reach out to me through any of these platforms. I'd love to connect with you! 🤝
-
-- Facebook: [Facebook Profile](https://www.facebook.com/ricardo.ribeiro.73700136) 📸
-- Instagram: [Instagram Profile](https://www.instagram.com/ricky_ribeiroo/) 📷
-- Gmail: ricardooliveiraribeiro01@gmail.com ✉️
-- Discord: _bigrick 🎮
-
-#### 🔭 Projects
-I enjoy working on various projects, ranging from web development to cybersecurity to coding. And I would love to someday learn Artificial Intelligence properly. 🚀
+📫 Connect with Me
+Gmail: ricardooliveiraribeiro01@gmail.com ✉️
+Discord: _bigrick 🎮
+🔭 Projects
+I work on web development, coding, and cybersecurity projects, and I aim to delve into AI soon! 🚀
